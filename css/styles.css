@@ -1,0 +1,58 @@
+/* Html */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Html */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Navigation Bar*/
+nav{
+    background-color: black;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand:hover{
+    color: grey;
+}
+body nav li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+    color: white;
+}
+
+/* Website Body */
+.col-md-6 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-3 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-6 {
+    display: grid;
+    place-items: center;
+}
+
+/* Footer */
+footer{
+    background-color: black;
+}
+footer p{
+    color: white;
+}
+footer ul li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover{
+    color: grey;
+}
